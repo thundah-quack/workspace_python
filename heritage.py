@@ -96,3 +96,4 @@ if (isinstance(a,Mere)):
     print ("a est une instance de Mere")
 else:
     print("a n'est pas une instance de Mere")
+    print("a n'est pas une instance de Mere")
